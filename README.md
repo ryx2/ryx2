@@ -28,6 +28,21 @@ tweaking that TypeScript bug2      8 mins          ▒░░░░░░░░�
 tweaking that TypeScript bug2        4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
 ```
 
+## 🌟 Developer Stats
+
+<div align="center">
+
+  <!-- Developer View Count -->
+  <img src="https://img.shields.io/badge/Developer%20View%20Count-725302093577503%2B-cyan?style=for-the-badge" alt="Developer View Count" />
+  <!-- Minutes Spent Coding -->
+  <img src="https://img.shields.io/badge/Minutes%20Spent%20Coding-5725973257257923579-brightgreen?style=for-the-badge" alt="Minutes Spent Coding" />
+  <!-- Developer Score -->
+  <img src="https://img.shields.io/badge/Developer%20Score-OVER%209%2C000%21-red?style=for-the-badge" alt="Developer Score" />
+  <!-- Developer Skill -->
+  <img src="https://img.shields.io/badge/Developer%20Skill-Legendary-blueviolet?style=for-the-badge" alt="Developer Skill" />
+
+</div>
+
 ## 📊 GitHub Stats
 
 <div align="center">
