@@ -365,6 +365,305 @@ tweaking that TypeScript bug2        4 mins          ░░░░░░░░░
 
 <!-- 100 -->
 <img src="https://img.shields.io/badge/Time%20Spent%20Googling-∞-lightgrey?style=for-the-badge" alt="Time Spent Googling" />
+<!-- 1 -->
+<img src="https://img.shields.io/badge/Keyboard%20Fury-999%2B-green?style=for-the-badge" alt="Keyboard Fury" />
+
+<!-- 2 -->
+<img src="https://img.shields.io/badge/Code%20Comments%20Ignored-777%2B-blueviolet?style=for-the-badge" alt="Code Comments Ignored" />
+
+<!-- 3 -->
+<img src="https://img.shields.io/badge/POM%20files%20misconfigured-13%2B-orange?style=for-the-badge" alt="POM Files Misconfigured" />
+
+<!-- 4 -->
+<img src="https://img.shields.io/badge/NPM%20Dependencies%20Forgotten-42%2B-yellow?style=for-the-badge" alt="NPM Dependencies Forgotten" />
+
+<!-- 5 -->
+<img src="https://img.shields.io/badge/Epic%20Monorepos%20Untamed-11%2B-red?style=for-the-badge" alt="Epic Monorepos Untamed" />
+
+<!-- 6 -->
+<img src="https://img.shields.io/badge/API%20Doc%20Links%20Lost-101%2B-lightgrey?style=for-the-badge" alt="API Doc Links Lost" />
+
+<!-- 7 -->
+<img src="https://img.shields.io/badge/Webhooks%20Botched-9%2B-ff69b4?style=for-the-badge" alt="Webhooks Botched" />
+
+<!-- 8 -->
+<img src="https://img.shields.io/badge/Container%20Images%20Pulled-7777%2B-blue?style=for-the-badge" alt="Container Images Pulled" />
+
+<!-- 9 -->
+<img src="https://img.shields.io/badge/Kubernetes%20Secrets%20Exposed-4%2B-orange?style=for-the-badge" alt="Kubernetes Secrets Exposed" />
+
+<!-- 10 -->
+<img src="https://img.shields.io/badge/DB%20Index%20Forgotten-1%2C000%2B-brightgreen?style=for-the-badge" alt="DB Index Forgotten" />
+
+<!-- 11 -->
+<img src="https://img.shields.io/badge/Pull%20Requests%20Reviewed-∞-blueviolet?style=for-the-badge" alt="Pull Requests Reviewed" />
+
+<!-- 12 -->
+<img src="https://img.shields.io/badge/Window%20Replacements%20from%20Thrown%20Laptops-2%2B-red?style=for-the-badge" alt="Window Replacements" />
+
+<!-- 13 -->
+<img src="https://img.shields.io/badge/Shadow%20DOM%20Confusions-55%2B-yellow?style=for-the-badge" alt="Shadow DOM Confusions" />
+
+<!-- 14 -->
+<img src="https://img.shields.io/badge/Unused%20Global%20Variables-999%2B-orange?style=for-the-badge" alt="Unused Global Variables" />
+
+<!-- 15 -->
+<img src="https://img.shields.io/badge/CLI%20Tools%20Stacked-108%2B-brightgreen?style=for-the-badge" alt="CLI Tools Stacked" />
+
+<!-- 16 -->
+<img src="https://img.shields.io/badge/Stack%20Traces%20Lost-2%2C142%2B-lightgrey?style=for-the-badge" alt="Stack Traces Lost" />
+
+<!-- 17 -->
+<img src="https://img.shields.io/badge/BIT%20shifts%20Misused-32%2B-brown?style=for-the-badge" alt="Bit Shifts Misused" />
+
+<!-- 18 -->
+<img src="https://img.shields.io/badge/Local%20Hostnames%20Misspelled-9%2B-ff69b4?style=for-the-badge" alt="Local Hostnames Misspelled" />
+
+<!-- 19 -->
+<img src="https://img.shields.io/badge/Git%20Hooks%20Forgotten-77%2B-blue?style=for-the-badge" alt="Git Hooks Forgotten" />
+
+<!-- 20 -->
+<img src="https://img.shields.io/badge/Repeated%20Bug%20Tickets-303%2B-red?style=for-the-badge" alt="Repeated Bug Tickets" />
+
+<!-- 21 -->
+<img src="https://img.shields.io/badge/Auto%20Complete%20Typos-6%2C666%2B-yellow?style=for-the-badge" alt="Auto Complete Typos" />
+
+<!-- 22 -->
+<img src="https://img.shields.io/badge/Commit%20Hooks%20Disabled-13%2B-orange?style=for-the-badge" alt="Commit Hooks Disabled" />
+
+<!-- 23 -->
+<img src="https://img.shields.io/badge/Synthetic%20Benchmarks-999%2B-brightgreen?style=for-the-badge" alt="Synthetic Benchmarks" />
+
+<!-- 24 -->
+<img src="https://img.shields.io/badge/Timestamp%20Offsets%20Ignored-11%2B-blueviolet?style=for-the-badge" alt="Timestamp Offsets Ignored" />
+
+<!-- 25 -->
+<img src="https://img.shields.io/badge/TryCatch%20Blocks%20We%20Forgot-404-red?style=for-the-badge" alt="Try/Catch Blocks We Forgot" />
+
+<!-- 26 -->
+<img src="https://img.shields.io/badge/Linux%20Alias%20Confusions-42%2B-orange?style=for-the-badge" alt="Linux Alias Confusions" />
+
+<!-- 27 -->
+<img src="https://img.shields.io/badge/Orphaned%20Docker%20Containers-99%2B-blueviolet?style=for-the-badge" alt="Orphaned Docker Containers" />
+
+<!-- 28 -->
+<img src="https://img.shields.io/badge/Build%20Scripts%20Gone%20Rogue-202%2B-green?style=for-the-badge" alt="Build Scripts Gone Rogue" />
+
+<!-- 29 -->
+<img src="https://img.shields.io/badge/Error%20Logs%20Devoured-1.9%20GB-orange?style=for-the-badge" alt="Error Logs Devoured" />
+
+<!-- 30 -->
+<img src="https://img.shields.io/badge/Branch%20Names%20with%20Emojis-7%2B-ff69b4?style=for-the-badge" alt="Branch Names with Emojis" />
+
+<!-- 31 -->
+<img src="https://img.shields.io/badge/Work%20PC%20Restarts-1%2C001-brightgreen?style=for-the-badge" alt="Work PC Restarts" />
+
+<!-- 32 -->
+<img src="https://img.shields.io/badge/OnCall%20Alerts%20Missed-2%2B-lightgrey?style=for-the-badge" alt="OnCall Alerts Missed" />
+
+<!-- 33 -->
+<img src="https://img.shields.io/badge/VPN%20Connections%20Dropped-55-red?style=for-the-badge" alt="VPN Connections Dropped" />
+
+<!-- 34 -->
+<img src="https://img.shields.io/badge/Package%20Managers%20Blended-3%2B-orange?style=for-the-badge" alt="Package Managers Blended" />
+
+<!-- 35 -->
+<img src="https://img.shields.io/badge/Python%20Env%20Chaos-12%2B-blueviolet?style=for-the-badge" alt="Python Env Chaos" />
+
+<!-- 36 -->
+<img src="https://img.shields.io/badge/PhantomJS%20Encounters-1%2B-yellow?style=for-the-badge" alt="PhantomJS Encounters" />
+
+<!-- 37 -->
+<img src="https://img.shields.io/badge/ElasticSearch%20YAML%20Nightmares-25%2B-lightgrey?style=for-the-badge" alt="ElasticSearch YAML Nightmares" />
+
+<!-- 38 -->
+<img src="https://img.shields.io/badge/Chrome%20Extensions%20Installed-88%2B-brightgreen?style=for-the-badge" alt="Chrome Extensions Installed" />
+
+<!-- 39 -->
+<img src="https://img.shields.io/badge/Email%20Filters%20Gone%20Rogue-9-red?style=for-the-badge" alt="Email Filters Gone Rogue" />
+
+<!-- 40 -->
+<img src="https://img.shields.io/badge/Git%20Tags%20Mislabelled-14%2B-orange?style=for-the-badge" alt="Git Tags Mislabelled" />
+
+<!-- 41 -->
+<img src="https://img.shields.io/badge/Keyboard%20Key%20Caps%20Lost-7%2B-blueviolet?style=for-the-badge" alt="Keyboard Key Caps Lost" />
+
+<!-- 42 -->
+<img src="https://img.shields.io/badge/Emoji%20Commits%20Attempted-99%2B-ff69b4?style=for-the-badge" alt="Emoji Commits Attempted" />
+
+<!-- 43 -->
+<img src="https://img.shields.io/badge/Widget%20Libraries%20Overused-6%2B-green?style=for-the-badge" alt="Widget Libraries Overused" />
+
+<!-- 44 -->
+<img src="https://img.shields.io/badge/Feature%20Requests%20Ignored-444%2B-yellow?style=for-the-badge" alt="Feature Requests Ignored" />
+
+<!-- 45 -->
+<img src="https://img.shields.io/badge/Bug%20Reporting%20Tools%20Battle-1%2B-red?style=for-the-badge" alt="Bug Reporting Tools Battle" />
+
+<!-- 46 -->
+<img src="https://img.shields.io/badge/Desktop%20Shortcuts%20Sprawled-80%2B-orange?style=for-the-badge" alt="Desktop Shortcuts Sprawled" />
+
+<!-- 47 -->
+<img src="https://img.shields.io/badge/Ping%20Responses%20Forgotten-37%2B-lightgrey?style=for-the-badge" alt="Ping Responses Forgotten" />
+
+<!-- 48 -->
+<img src="https://img.shields.io/badge/Random%20Code%20Snippets%20Hoarded-212%2B-brightgreen?style=for-the-badge" alt="Random Code Snippets Hoarded" />
+
+<!-- 49 -->
+<img src="https://img.shields.io/badge/Monitors%20Full%20of%20Sticky%20Notes-5%2B-blueviolet?style=for-the-badge" alt="Monitors Full of Sticky Notes" />
+
+<!-- 50 -->
+<img src="https://img.shields.io/badge/Coding%20Hype%20Playlist%20Replays-999%2B-ff69b4?style=for-the-badge" alt="Coding Hype Playlist Replays" />
+
+<!-- 51 -->
+<img src="https://img.shields.io/badge/Slack%20Channels%20Muted-22%2B-red?style=for-the-badge" alt="Slack Channels Muted" />
+
+<!-- 52 -->
+<img src="https://img.shields.io/badge/ToDo%20Apps%20Tested-14%2B-orange?style=for-the-badge" alt="ToDo Apps Tested" />
+
+<!-- 53 -->
+<img src="https://img.shields.io/badge/GPT%20Prompts%20Abused-2%2C222%2B-blueviolet?style=for-the-badge" alt="GPT Prompts Abused" />
+
+<!-- 54 -->
+<img src="https://img.shields.io/badge/CSS%20Framework%20Rejections-67%2B-green?style=for-the-badge" alt="CSS Framework Rejections" />
+
+<!-- 55 -->
+<img src="https://img.shields.io/badge/Bug%20Triage%20Arguments-777%2B-lightgrey?style=for-the-badge" alt="Bug Triage Arguments" />
+
+<!-- 56 -->
+<img src="https://img.shields.io/badge/Hackathon%20Weekend%20Burnouts-3%2B-red?style=for-the-badge" alt="Hackathon Weekend Burnouts" />
+
+<!-- 57 -->
+<img src="https://img.shields.io/badge/DNS%20Records%20Fumbled-44%2B-orange?style=for-the-badge" alt="DNS Records Fumbled" />
+
+<!-- 58 -->
+<img src="https://img.shields.io/badge/Meetings%20While%20Coding-100%2B-blue?style=for-the-badge" alt="Meetings While Coding" />
+
+<!-- 59 -->
+<img src="https://img.shields.io/badge/Days%20Spent%20Refactoring-666%2B-brightgreen?style=for-the-badge" alt="Days Spent Refactoring" />
+
+<!-- 60 -->
+<img src="https://img.shields.io/badge/Laptops%20used%20as%20Dinner%20Trays-4%2B-ff69b4?style=for-the-badge" alt="Laptops used as Dinner Trays" />
+
+<!-- 61 -->
+<img src="https://img.shields.io/badge/Late%20Night%20Epiphanies-42%2B-orange?style=for-the-badge" alt="Late Night Epiphanies" />
+
+<!-- 62 -->
+<img src="https://img.shields.io/badge/Energy%20Drinks%20Consumed-555%2B-red?style=for-the-badge" alt="Energy Drinks Consumed" />
+
+<!-- 63 -->
+<img src="https://img.shields.io/badge/Existential%20Coding%20Crisis-1%2C001%2B-blueviolet?style=for-the-badge" alt="Existential Coding Crisis" />
+
+<!-- 64 -->
+<img src="https://img.shields.io/badge/Keyboard%20Clacking%20Rhythms%20Mastered-9%2B-green?style=for-the-badge" alt="Keyboard Clacking Rhythms" />
+
+<!-- 65 -->
+<img src="https://img.shields.io/badge/Spilled%20Snacks%20on%20Desk-20%2B-lightgrey?style=for-the-badge" alt="Spilled Snacks on Desk" />
+
+<!-- 66 -->
+<img src="https://img.shields.io/badge/Binge%20Coding%20Sessions-333%2B-orange?style=for-the-badge" alt="Binge Coding Sessions" />
+
+<!-- 67 -->
+<img src="https://img.shields.io/badge/Late%20Night%20Takeout%20Orders-100%2B-brightgreen?style=for-the-badge" alt="Late Night Takeout Orders" />
+
+<!-- 68 -->
+<img src="https://img.shields.io/badge/Coding%20Dreams%20(aka%20Nightmares)-77%2B-yellow?style=for-the-badge" alt="Coding Dreams" />
+
+<!-- 69 -->
+<img src="https://img.shields.io/badge/Haunting%20Feeling%20of%20Unpushed%20Commits-42%2B-red?style=for-the-badge" alt="Haunting Feeling of Unpushed Commits" />
+
+<!-- 70 -->
+<img src="https://img.shields.io/badge/Git%20Blame%20Night%20Terrors-13%2B-blueviolet?style=for-the-badge" alt="Git Blame Night Terrors" />
+
+<!-- 71 -->
+<img src="https://img.shields.io/badge/Conversations%20with%20Rubber%20Ducks-5%2B-ff69b4?style=for-the-badge" alt="Conversations with Rubber Ducks" />
+
+<!-- 72 -->
+<img src="https://img.shields.io/badge/Virtual%20Background%20Mishaps-18%2B-green?style=for-the-badge" alt="Virtual Background Mishaps" />
+
+<!-- 73 -->
+<img src="https://img.shields.io/badge/Meetings%20that%20Could%20Be%20Emails-101%2B-lightgrey?style=for-the-badge" alt="Meetings that Could Be Emails" />
+
+<!-- 74 -->
+<img src="https://img.shields.io/badge/Coffee%20Mug%20Tower%20Height-5%20ft-blue?style=for-the-badge" alt="Coffee Mug Tower Height" />
+
+<!-- 75 -->
+<img src="https://img.shields.io/badge/Friendships%20Sacrificed%20to%20Deadlines-2%2B-red?style=for-the-badge" alt="Friendships Sacrificed" />
+
+<!-- 76 -->
+<img src="https://img.shields.io/badge/Eye%20Twitch%20Frequency-12%2Fhr-orange?style=for-the-badge" alt="Eye Twitch Frequency" />
+
+<!-- 77 -->
+<img src="https://img.shields.io/badge/Zero%20Inbox%20Attempts-Futile-yellow?style=for-the-badge" alt="Zero Inbox Attempts" />
+
+<!-- 78 -->
+<img src="https://img.shields.io/badge/Reality%20Checks%20Declined-666%2B-blueviolet?style=for-the-badge" alt="Reality Checks Declined" />
+
+<!-- 79 -->
+<img src="https://img.shields.io/badge/Social%20Interactions%20Avoided-999%2B-red?style=for-the-badge" alt="Social Interactions Avoided" />
+
+<!-- 80 -->
+<img src="https://img.shields.io/badge/Ghost%20Pings%20Encountered-37%2B-lightgrey?style=for-the-badge" alt="Ghost Pings Encountered" />
+
+<!-- 81 -->
+<img src="https://img.shields.io/badge/Cat%20Memes%20Shared-222%2B-ff69b4?style=for-the-badge" alt="Cat Memes Shared" />
+
+<!-- 82 -->
+<img src="https://img.shields.io/badge/Human%20Language%20Skills%20Atrophy-90%25-orange?style=for-the-badge" alt="Human Language Skills Atrophy" />
+
+<!-- 83 -->
+<img src="https://img.shields.io/badge/Hygiene%20Practices%20Forgotten-42%25-red?style=for-the-badge" alt="Hygiene Practices Forgotten" />
+
+<!-- 84 -->
+<img src="https://img.shields.io/badge/Time%20Warp%20in%20Chair-8%20hrs%20straight-blueviolet?style=for-the-badge" alt="Time Warp in Chair" />
+
+<!-- 85 -->
+<img src="https://img.shields.io/badge/Favorite%20Teddy%20Bear%20Dev%20Companion-1%2B-brightgreen?style=for-the-badge" alt="Teddy Bear Dev Companion" />
+
+<!-- 86 -->
+<img src="https://img.shields.io/badge/Inner%20Monologue%20in%20Console.log-100%25-lightgrey?style=for-the-badge" alt="Inner Monologue in console.log" />
+
+<!-- 87 -->
+<img src="https://img.shields.io/badge/Talks%20to%20Self%20While%20Coding-Yes-blue?style=for-the-badge" alt="Talks to Self While Coding" />
+
+<!-- 88 -->
+<img src="https://img.shields.io/badge/Mind%20Palace%20Segfaults-13%2B-orange?style=for-the-badge" alt="Mind Palace Segfaults" />
+
+<!-- 89 -->
+<img src="https://img.shields.io/badge/Phantom%20Notifications%20Check-999%2B-yellow?style=for-the-badge" alt="Phantom Notifications Check" />
+
+<!-- 90 -->
+<img src="https://img.shields.io/badge/Existential%20Dread%20Level-Over%209%2C000%21-red?style=for-the-badge" alt="Existential Dread Level" />
+
+<!-- 91 -->
+<img src="https://img.shields.io/badge/Time%20Spent%20Questioning%20Reality-77%25-blueviolet?style=for-the-badge" alt="Time Spent Questioning Reality" />
+
+<!-- 92 -->
+<img src="https://img.shields.io/badge/Walls%20Conversed%20With-3%2B-green?style=for-the-badge" alt="Walls Conversed With" />
+
+<!-- 93 -->
+<img src="https://img.shields.io/badge/Posture%20Warnings%20Ignored-88%2B-orange?style=for-the-badge" alt="Posture Warnings Ignored" />
+
+<!-- 94 -->
+<img src="https://img.shields.io/badge/Refrigerator%20Visits%20Hourly-9%2B-lightgrey?style=for-the-badge" alt="Refrigerator Visits Hourly" />
+
+<!-- 95 -->
+<img src="https://img.shields.io/badge/Infinite%20Scroll%20in%20Thoughts-∞-ff69b4?style=for-the-badge" alt="Infinite Scroll in Thoughts" />
+
+<!-- 96 -->
+<img src="https://img.shields.io/badge/Random%20Philosophical%20Outbursts-42%2B-blue?style=for-the-badge" alt="Random Philosophical Outbursts" />
+
+<!-- 97 -->
+<img src="https://img.shields.io/badge/Celestial%20Messages%20Misread-5%2B-red?style=for-the-badge" alt="Celestial Messages Misread" />
+
+<!-- 98 -->
+<img src="https://img.shields.io/badge/Cosmic%20Void%20Gazed%20Into-1%2B-orange?style=for-the-badge" alt="Cosmic Void Gazed Into" />
+
+<!-- 99 -->
+<img src="https://img.shields.io/badge/Tea%20Leaves%20Interpreted%20as%20Bug%20Fixes-13%2B-green?style=for-the-badge" alt="Tea Leaves Interpreted as Bug Fixes" />
+
+<!-- 100 -->
+<img src="https://img.shields.io/badge/Potato%20Paranoia%20Achieved-100%25-blueviolet?style=for-the-badge" alt="Potato Paranoia Achieved" />
 
 </div>
 
