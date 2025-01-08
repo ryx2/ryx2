@@ -28,8 +28,6 @@ tweaking that TypeScript bug2      8 mins          ▒░░░░░░░░�
 tweaking that TypeScript bug2        4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
 ```
 
-## visitorz: ![visitors](https://visitor-badge.glitch.me/badge?page_id=ryx2.ryx2&left_color=green&right_color=red)
-
 ## 📊 GitHub Stats
 
 <div align="center">
