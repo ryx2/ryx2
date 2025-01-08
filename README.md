@@ -17,6 +17,17 @@ sup
 
 <a href="raymondxproperties.com" target="_blank">raymondxproperties.com</a>
 
+📊 **this week i spent my time on:**
+<!--START_SECTION:waka-->
+
+```txt
+tweaking that TypeScript bug       92 hrs 6 mins   ████████████████████░░░░░   79.86 %
+tweaking that TypeScript bug1      142 hrs 3 mins  ████▒░░░░░░░░░░░░░░░░░░░░   17.35 %
+tweaking that TypeScript bug2      11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
+tweaking that TypeScript bug2      8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
+tweaking that TypeScript bug2        4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
+```
+
 ## 📊 GitHub Stats
 
 <div align="center">
