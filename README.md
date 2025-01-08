@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Raymond
+# 👋 I'm Raymond
 
 <div align="center">
 
@@ -11,18 +11,11 @@
 
 ## 🚀 About Me
 
-I'm a passionate developer who loves to code and create interesting projects.
+sup
 
-<details>
-<summary>More about me</summary>
+## ⚡ Founder @ Modern Realty (YC s24)
 
--   🔭 I'm currently working on improving my coding skills
--   🌱 I'm currently learning Full Stack Development
--   👯 I'm looking to collaborate on interesting projects
--   🇻🇳 I am Vietnamese and my real name is Doan Dinh Hoang (Đoàn Đình Hoàng)
--   💡 I love exploring new technologies and developing software solutions
-
-</details>
+<a href="raymondxproperties.com" target="_blank">raymondxproperties.com</a>
 
 ## 📊 GitHub Stats
 
@@ -65,12 +58,8 @@ I'm a passionate developer who loves to code and create interesting projects.
 
 <p align="left">
 <a href="https://github.com/ryx2" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
-<a href="mailto:daoluc.yy@gmail.com" target="_blank"><img alt="Mail" src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:greenfish6@gmail.com" target="_blank"><img alt="Mail" src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
-
-## ⚡ Founder @ Modern Realty (YC s24)
-
-<a href="raymondxproperties.com" target="_blank">raymondxproperties.com</a>
 
 ---
 
