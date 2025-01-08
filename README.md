@@ -39,7 +39,7 @@ I'm a passionate developer who loves to code and create interesting projects.
 
 <p align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats-okpyckmx5-tieu-thanh-nhi1-7d5a1c92.vercel.app?user=ryx2&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ryx2)](https://git.io/streak-stats)
 
 </p>
 
