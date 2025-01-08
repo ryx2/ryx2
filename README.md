@@ -43,10 +43,6 @@ I'm a passionate developer who loves to code and create interesting projects.
 
 </p>
 
-<p align="center">
-  <img src="cat.webp" alt="Cute Cat" width="200">
-</p>
-
 </div>
 
 ## 🛠️ Tech Stack
