@@ -664,6 +664,305 @@ tweaking that TypeScript bug2        4 mins          ░░░░░░░░░
 
 <!-- 100 -->
 <img src="https://img.shields.io/badge/Potato%20Paranoia%20Achieved-100%25-blueviolet?style=for-the-badge" alt="Potato Paranoia Achieved" />
+<!-- 1 -->
+<img src="https://img.shields.io/badge/Cups%20Half%20Empty-∞-blue?style=for-the-badge" alt="Cups Half Empty" />
+
+<!-- 2 -->
+<img src="https://img.shields.io/badge/Lone%20Sigh%20Counter-9999%2B-lightgrey?style=for-the-badge" alt="Lone Sigh Counter" />
+
+<!-- 3 -->
+<img src="https://img.shields.io/badge/Pillow%20Fort%20Retreats-7%2B-blueviolet?style=for-the-badge" alt="Pillow Fort Retreats" />
+
+<!-- 4 -->
+<img src="https://img.shields.io/badge/Dreariness%20Level-Over%209%2C000%21-red?style=for-the-badge" alt="Dreariness Level" />
+
+<!-- 5 -->
+<img src="https://img.shields.io/badge/Chocolate%20Therapy%20Sessions-42%2B-brown?style=for-the-badge" alt="Chocolate Therapy Sessions" />
+
+<!-- 6 -->
+<img src="https://img.shields.io/badge/Binge%20Watching%20Escapes-13%2B-yellow?style=for-the-badge" alt="Binge Watching Escapes" />
+
+<!-- 7 -->
+<img src="https://img.shields.io/badge/Dystopian%20Thoughts-666%2B-critical?style=for-the-badge" alt="Dystopian Thoughts" />
+
+<!-- 8 -->
+<img src="https://img.shields.io/badge/Rainy%20Day%20Playlist%20Replays-999%2B-blue?style=for-the-badge" alt="Rainy Day Playlist Replays" />
+
+<!-- 9 -->
+<img src="https://img.shields.io/badge/Apathetic%20Shrugs-1234%2B-lightgrey?style=for-the-badge" alt="Apathetic Shrugs" />
+
+<!-- 10 -->
+<img src="https://img.shields.io/badge/Reminder%3A%20Life%20is%20Hard-True-orange?style=for-the-badge" alt="Life is Hard Reminder" />
+
+<!-- 11 -->
+<img src="https://img.shields.io/badge/Soul%20Searching%20Sundays-∞-red?style=for-the-badge" alt="Soul Searching Sundays" />
+
+<!-- 12 -->
+<img src="https://img.shields.io/badge/Existential%20Crisis%20Frequency-100%25-critical?style=for-the-badge" alt="Existential Crisis Frequency" />
+
+<!-- 13 -->
+<img src="https://img.shields.io/badge/Bedsheet%20Cave%20Days-5%2B-blueviolet?style=for-the-badge" alt="Bedsheet Cave Days" />
+
+<!-- 14 -->
+<img src="https://img.shields.io/badge/Tear%20Ducts%20on%20Standby-999%2B-brightgreen?style=for-the-badge" alt="Tear Ducts on Standby" />
+
+<!-- 15 -->
+<img src="https://img.shields.io/badge/Monochrome%20Wardrobe-15%2B-grey?style=for-the-badge" alt="Monochrome Wardrobe" />
+
+<!-- 16 -->
+<img src="https://img.shields.io/badge/Group%20Texts%20Avoided-88%2B-orange?style=for-the-badge" alt="Group Texts Avoided" />
+
+<!-- 17 -->
+<img src="https://img.shields.io/badge/Number%20of%20Plans%20Canceled-13%2B-yellow?style=for-the-badge" alt="Plans Canceled" />
+
+<!-- 18 -->
+<img src="https://img.shields.io/badge/Alarms%20Snoozed-234%2B-blueviolet?style=for-the-badge" alt="Alarms Snoozed" />
+
+<!-- 19 -->
+<img src="https://img.shields.io/badge/Comfort%20Food%20Cravings-9999%2B-brown?style=for-the-badge" alt="Comfort Food Cravings" />
+
+<!-- 20 -->
+<img src="https://img.shields.io/badge/Sunlight%20Exposure-Minimal-lightgrey?style=for-the-badge" alt="Sunlight Exposure Minimal" />
+
+<!-- 21 -->
+<img src="https://img.shields.io/badge/Inspiring%20Quotes%20Ignored-101%2B-red?style=for-the-badge" alt="Inspiring Quotes Ignored" />
+
+<!-- 22 -->
+<img src="https://img.shields.io/badge/Couch%20Indent%20Depth-Deep-blue?style=for-the-badge" alt="Couch Indent Depth" />
+
+<!-- 23 -->
+<img src="https://img.shields.io/badge/Mopey%20Walks%20in%20the%20Park-12%2B-orange?style=for-the-badge" alt="Mopey Walks in the Park" />
+
+<!-- 24 -->
+<img src="https://img.shields.io/badge/Music%20Volume%20Level-Sad%20But%20Loud-yellow?style=for-the-badge" alt="Music Volume Sad But Loud" />
+
+<!-- 25 -->
+<img src="https://img.shields.io/badge/Missed%20Calls%20on%20Purpose-27%2B-blueviolet?style=for-the-badge" alt="Missed Calls on Purpose" />
+
+<!-- 26 -->
+<img src="https://img.shields.io/badge/Slump%20Weeks-8%2B-lightgrey?style=for-the-badge" alt="Slump Weeks" />
+
+<!-- 27 -->
+<img src="https://img.shields.io/badge/Lonely%20Plants%20Gazed%20At-5%2B-green?style=for-the-badge" alt="Lonely Plants Gazed At" />
+
+<!-- 28 -->
+<img src="https://img.shields.io/badge/Fluffy%20Blanket%20Reliance-99%2B-blue?style=for-the-badge" alt="Fluffy Blanket Reliance" />
+
+<!-- 29 -->
+<img src="https://img.shields.io/badge/Family%20Gathering%20Avoidance-42%2B-orange?style=for-the-badge" alt="Family Gathering Avoidance" />
+
+<!-- 30 -->
+<img src="https://img.shields.io/badge/Comfort%20Movies%20Rewatched-3%2C333%2B-ff69b4?style=for-the-badge" alt="Comfort Movies Rewatched" />
+
+<!-- 31 -->
+<img src="https://img.shields.io/badge/Denial%20Phase-Perpetual-yellow?style=for-the-badge" alt="Denial Phase Perpetual" />
+
+<!-- 32 -->
+<img src="https://img.shields.io/badge/Crying%20in%20the%20Car%20(Volume%20Up)-100%25-critical?style=for-the-badge" alt="Crying in the Car" />
+
+<!-- 33 -->
+<img src="https://img.shields.io/badge/Fake%20Smiles%20Attempted-1%2C001%2B-lightgrey?style=for-the-badge" alt="Fake Smiles Attempted" />
+
+<!-- 34 -->
+<img src="https://img.shields.io/badge/Clocks%20Stared%20At-∞-blueviolet?style=for-the-badge" alt="Clocks Stared At" />
+
+<!-- 35 -->
+<img src="https://img.shields.io/badge/Dark%20Circles%20Under%20Eyes-999%2B-brown?style=for-the-badge" alt="Dark Circles Under Eyes" />
+
+<!-- 36 -->
+<img src="https://img.shields.io/badge/Sad%20Playlist%20Shuffles-777%2B-orange?style=for-the-badge" alt="Sad Playlist Shuffles" />
+
+<!-- 37 -->
+<img src="https://img.shields.io/badge/Frozen%20Pizza%20Dinners-Over%209%2C000%21-red?style=for-the-badge" alt="Frozen Pizza Dinners" />
+
+<!-- 38 -->
+<img src="https://img.shields.io/badge/Pessimism%20Skill-Legendary-blue?style=for-the-badge" alt="Pessimism Skill Legendary" />
+
+<!-- 39 -->
+<img src="https://img.shields.io/badge/Procrastination%20Radar-Activated-yellow?style=for-the-badge" alt="Procrastination Radar" />
+
+<!-- 40 -->
+<img src="https://img.shields.io/badge/Duvet%20Surrender%20Quotient-100%25-lightgrey?style=for-the-badge" alt="Duvet Surrender Quotient" />
+
+<!-- 41 -->
+<img src="https://img.shields.io/badge/Time%20on%20the%20Couch-So%20Much-brightgreen?style=for-the-badge" alt="Time on the Couch" />
+
+<!-- 42 -->
+<img src="https://img.shields.io/badge/Dramatic%20Sighing%20Sessions-500%2B-blueviolet?style=for-the-badge" alt="Dramatic Sighing Sessions" />
+
+<!-- 43 -->
+<img src="https://img.shields.io/badge/Last%20Vacation%20Taken-Too%20Long%20Ago-orange?style=for-the-badge" alt="Last Vacation Taken" />
+
+<!-- 44 -->
+<img src="https://img.shields.io/badge/Self%20Care%20Excuses-25%2B-red?style=for-the-badge" alt="Self Care Excuses" />
+
+<!-- 45 -->
+<img src="https://img.shields.io/badge/Silent%20Phone%20Mode%20Duration-999%2B-blue?style=for-the-badge" alt="Silent Phone Mode Duration" />
+
+<!-- 46 -->
+<img src="https://img.shields.io/badge/Misery%20Memes%20Shared-14%2B-ff69b4?style=for-the-badge" alt="Misery Memes Shared" />
+
+<!-- 47 -->
+<img src="https://img.shields.io/badge/Craving%20for%20Therapy-101%25-yellow?style=for-the-badge" alt="Craving for Therapy" />
+
+<!-- 48 -->
+<img src="https://img.shields.io/badge/Hope%20Bucket%20Level-Maybe%3F-lightgrey?style=for-the-badge" alt="Hope Bucket Level" />
+
+<!-- 49 -->
+<img src="https://img.shields.io/badge/Cold%20Pizza%20Breakfasts-12%2B-brown?style=for-the-badge" alt="Cold Pizza Breakfasts" />
+
+<!-- 50 -->
+<img src="https://img.shields.io/badge/Social%20Media%20Doomscrolling-High-orange?style=for-the-badge" alt="Social Media Doomscrolling" />
+
+<!-- 51 -->
+<img src="https://img.shields.io/badge/Escapist%20Novels%20Abandoned-999%2B-blueviolet?style=for-the-badge" alt="Escapist Novels Abandoned" />
+
+<!-- 52 -->
+<img src="https://img.shields.io/badge/Blank%20Stares%20Per%20Minute-13%2B-lightgrey?style=for-the-badge" alt="Blank Stares Per Minute" />
+
+<!-- 53 -->
+<img src="https://img.shields.io/badge/Irrational%20Guilt%20Trips-6%2C666%2B-red?style=for-the-badge" alt="Irrational Guilt Trips" />
+
+<!-- 54 -->
+<img src="https://img.shields.io/badge/Personal%20Pep%20Talks%20Failed-57%2B-yellow?style=for-the-badge" alt="Personal Pep Talks Failed" />
+
+<!-- 55 -->
+<img src="https://img.shields.io/badge/Mild%20Numbness%20Factor-Over%209%2C000%21-brightgreen?style=for-the-badge" alt="Mild Numbness Factor" />
+
+<!-- 56 -->
+<img src="https://img.shields.io/badge/Friend%20Invites%20Declined-21%2B-orange?style=for-the-badge" alt="Friend Invites Declined" />
+
+<!-- 57 -->
+<img src="https://img.shields.io/badge/Crippling%20Dread%20Occurrences-∞-red?style=for-the-badge" alt="Crippling Dread Occurrences" />
+
+<!-- 58 -->
+<img src="https://img.shields.io/badge/Comfort%20Playlist%20Track%20Loop-1%20Song-blueviolet?style=for-the-badge" alt="Comfort Playlist Loop" />
+
+<!-- 59 -->
+<img src="https://img.shields.io/badge/Early%20Nights%20Gone%20Wrong-12%2B-lightgrey?style=for-the-badge" alt="Early Nights Gone Wrong" />
+
+<!-- 60 -->
+<img src="https://img.shields.io/badge/Pajamas%20As%20Attire-999%2B-pink?style=for-the-badge" alt="Pajamas As Attire" />
+
+<!-- 61 -->
+<img src="https://img.shields.io/badge/Unanswered%20Texts%20All%20Day-9%2B-yellow?style=for-the-badge" alt="Unanswered Texts All Day" />
+
+<!-- 62 -->
+<img src="https://img.shields.io/badge/Vague%20Existential%20Monologues-14%2B-orange?style=for-the-badge" alt="Vague Existential Monologues" />
+
+<!-- 63 -->
+<img src="https://img.shields.io/badge/Feeling%20Empty%20Inside-100%25-critical?style=for-the-badge" alt="Feeling Empty Inside" />
+
+<!-- 64 -->
+<img src="https://img.shields.io/badge/Wandering%20Aimlessly-7%2B-blue?style=for-the-badge" alt="Wandering Aimlessly" />
+
+<!-- 65 -->
+<img src="https://img.shields.io/badge/Random%20Wall%20Staring%20Sessions-30%2B-lightgrey?style=for-the-badge" alt="Random Wall Staring Sessions" />
+
+<!-- 66 -->
+<img src="https://img.shields.io/badge/Midnight%20Snacking%20Confessions-999%2B-brown?style=for-the-badge" alt="Midnight Snacking Confessions" />
+
+<!-- 67 -->
+<img src="https://img.shields.io/badge/Flawed%20Horoscope%20Checks-True%20Belief-red?style=for-the-badge" alt="Flawed Horoscope Checks" />
+
+<!-- 68 -->
+<img src="https://img.shields.io/badge/Fear%20of%20the%20Unknown-90%25-yellow?style=for-the-badge" alt="Fear of the Unknown" />
+
+<!-- 69 -->
+<img src="https://img.shields.io/badge/Groaning%20Mornings-100%2B-blueviolet?style=for-the-badge" alt="Groaning Mornings" />
+
+<!-- 70 -->
+<img src="https://img.shields.io/badge/Feelings%20of%20Isolation-11%2B-lightgrey?style=for-the-badge" alt="Feelings of Isolation" />
+
+<!-- 71 -->
+<img src="https://img.shields.io/badge/Mind%20Fogs%20Detected-999%2B-orange?style=for-the-badge" alt="Mind Fogs Detected" />
+
+<!-- 72 -->
+<img src="https://img.shields.io/badge/Therapy%20Tabs%20Opened-4%2B-blue?style=for-the-badge" alt="Therapy Tabs Opened" />
+
+<!-- 73 -->
+<img src="https://img.shields.io/badge/Halfhearted%20Laughs%20Heard-2%2B-ff69b4?style=for-the-badge" alt="Halfhearted Laughs" />
+
+<!-- 74 -->
+<img src="https://img.shields.io/badge/Spontaneous%20Weeping%20Moments-8%2B-red?style=for-the-badge" alt="Spontaneous Weeping Moments" />
+
+<!-- 75 -->
+<img src="https://img.shields.io/badge/Self%20Doubt%20Olympics-Gold%20Medalist-orange?style=for-the-badge" alt="Self Doubt Olympics" />
+
+<!-- 76 -->
+<img src="https://img.shields.io/badge/Hope%20Tank%20Reading-E%20(Empty)-lightgrey?style=for-the-badge" alt="Hope Tank Reading" />
+
+<!-- 77 -->
+<img src="https://img.shields.io/badge/Inboxes%20Unopened-77%2B-yellow?style=for-the-badge" alt="Inboxes Unopened" />
+
+<!-- 78 -->
+<img src="https://img.shields.io/badge/Spiral%20Journaling%20Pages-999%2B-blueviolet?style=for-the-badge" alt="Spiral Journaling Pages" />
+
+<!-- 79 -->
+<img src="https://img.shields.io/badge/Self%20Loathing%20Playlist-13%2B-brown?style=for-the-badge" alt="Self Loathing Playlist" />
+
+<!-- 80 -->
+<img src="https://img.shields.io/badge/Numbing%20Sensations%20Blamed%20on%20Weather-Yes-orange?style=for-the-badge" alt="Numbing Sensations Blamed on Weather" />
+
+<!-- 81 -->
+<img src="https://img.shields.io/badge/Frozen%20Dinners%20Stockpile-9%2B-blue?style=for-the-badge" alt="Frozen Dinners Stockpile" />
+
+<!-- 82 -->
+<img src="https://img.shields.io/badge/Tissues%20Used-2%2C222%2B-lightgrey?style=for-the-badge" alt="Tissues Used" />
+
+<!-- 83 -->
+<img src="https://img.shields.io/badge/Hopeful%20Mantras%20Forgotten-42%2B-red?style=for-the-badge" alt="Hopeful Mantras Forgotten" />
+
+<!-- 84 -->
+<img src="https://img.shields.io/badge/Overthinking%20Record-314159265-green?style=for-the-badge" alt="Overthinking Record" />
+
+<!-- 85 -->
+<img src="https://img.shields.io/badge/Last%20Glimmer%20of%20Optimism-Flickering-brightgreen?style=for-the-badge" alt="Last Glimmer of Optimism" />
+
+<!-- 86 -->
+<img src="https://img.shields.io/badge/Pajama%20Days%20in%20a%20Row-100%2B-blueviolet?style=for-the-badge" alt="Pajama Days in a Row" />
+
+<!-- 87 -->
+<img src="https://img.shields.io/badge/Negative%20Thoughts%20Spiral-999%2B-orange?style=for-the-badge" alt="Negative Thoughts Spiral" />
+
+<!-- 88 -->
+<img src="https://img.shields.io/badge/Lingering%20Regrets-5%2B-lightgrey?style=for-the-badge" alt="Lingering Regrets" />
+
+<!-- 89 -->
+<img src="https://img.shields.io/badge/Night%20Sky%20Stares%20of%20Despair-∞-blue?style=for-the-badge" alt="Night Sky Stares" />
+
+<!-- 90 -->
+<img src="https://img.shields.io/badge/Ignored%20Calls%20From%20Mom-12%2B-ff69b4?style=for-the-badge" alt="Ignored Calls From Mom" />
+
+<!-- 91 -->
+<img src="https://img.shields.io/badge/Sleep%20Schedule%20Chaos-Complete-red?style=for-the-badge" alt="Sleep Schedule Chaos" />
+
+<!-- 92 -->
+<img src="https://img.shields.io/badge/Dark%20Chocolate%20Meals-4%2B-brown?style=for-the-badge" alt="Dark Chocolate Meals" />
+
+<!-- 93 -->
+<img src="https://img.shields.io/badge/Days%20Wishing%20for%20Hibernation-99%2B-yellow?style=for-the-badge" alt="Days Wishing for Hibernation" />
+
+<!-- 94 -->
+<img src="https://img.shields.io/badge/Awkward%20Convos%20Avoided-999%2B-orange?style=for-the-badge" alt="Awkward Convos Avoided" />
+
+<!-- 95 -->
+<img src="https://img.shields.io/badge/Rain%20Checks%20Issued-5%2B-blueviolet?style=for-the-badge" alt="Rain Checks Issued" />
+
+<!-- 96 -->
+<img src="https://img.shields.io/badge/Window%20Gazing%20Ennui-24%2B-brightgreen?style=for-the-badge" alt="Window Gazing Ennui" />
+
+<!-- 97 -->
+<img src="https://img.shields.io/badge/Heart%20to%20Heart%20Talks%20(With%20Self)-Ten%20Too%20Many-lightgrey?style=for-the-badge" alt="Heart to Heart with Self" />
+
+<!-- 98 -->
+<img src="https://img.shields.io/badge/Overdue%20Plans%20We%20Promised-1%2C000%2B-red?style=for-the-badge" alt="Overdue Plans We Promised" />
+
+<!-- 99 -->
+<img src="https://img.shields.io/badge/Happiness%20Wishlist%20(Backordered)-Indefinite-orange?style=for-the-badge" alt="Happiness Wishlist Backordered" />
+
+<!-- 100 -->
+<img src="https://img.shields.io/badge/Acceptance%20Phase%3F-Loading...-blueviolet?style=for-the-badge" alt="Acceptance Phase?" />
 
 </div>
 
