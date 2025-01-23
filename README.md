@@ -5,7 +5,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/ryx2?style=social)](https://github.com/ryx2)
 ![Profile Views](https://komarev.com/ghpvc/?username=ryx2&color=blueviolet)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9D36F7&center=true&vCenter=true&width=435&lines=Frontend+Developer;Full-stack+Developer;Vietnamese+Developer;Always+learning+new+things" alt="Typing SVG" />
+whats poppin
 
 </div>
 
