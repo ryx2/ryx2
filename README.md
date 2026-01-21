@@ -13,7 +13,7 @@ whats poppin
 
 sup
 
-## ⚡ Founder @ Modern Realty (YC s24)
+## ⚡ Founder @ Raysurfer
 
 <a href="raymondxproperties.com" target="_blank">raymondxproperties.com</a>
 
