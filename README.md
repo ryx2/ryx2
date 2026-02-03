@@ -28,27 +28,6 @@ tweaking that TypeScript bug2      8 mins          ▒░░░░░░░░�
 tweaking that TypeScript bug2      4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
 ```
 
-## 📂 Projects
-
-| Repo | Description | Tech |
-|------|-------------|------|
-| [**AiAgenticStackTrace**](https://github.com/ryx2/AiAgenticStackTrace) | Help AI agents (Cursor, Cline, OpenHands) find the file you're executing | TypeScript |
-| [**claude-codemode**](https://github.com/ryx2/claude-codemode) | Claude Code SDK + Cloudflare Agent codemode blend | Python |
-| [**ai-generate-pr**](https://github.com/ryx2/ai-generate-pr) | Auto-push branches and generate descriptive PRs using Claude 3.5 | TypeScript |
-| [**logfire-skill**](https://github.com/ryx2/logfire-skill) | Claude Code skill for querying Pydantic Logfire logs/traces | Python |
-| [**MRI-Brain-Registration**](https://github.com/ryx2/MRI-Brain-Registration) | Master's project - MRI brain registration | Jupyter |
-| [**ECE-4760-final-project**](https://github.com/ryx2/ECE-4760-final-project-recording-studio) | Recording studio with clip looping & voice recording ([demo](https://youtube.com/watch?v=DRMiFPc-xtw)) | C |
-| [**ECE-5725-Embedded-OS**](https://github.com/ryx2/ECE-5725-Embedded-OS-Final-Project) | Dancing robot ([demo](https://youtube.com/watch?v=h-QHV3aDBVE)) | Python |
-| [**Motion-Kernel-Estimator**](https://github.com/ryx2/Motion-Kernel-Estimator) | Estimate angle/length of motion blur in images | Matlab |
-| [**cv_utils**](https://github.com/ryx2/cv_utils) | Computer vision (CNN) utilities | Python |
-| [**job-visualizer**](https://github.com/ryx2/job-visualizer) | Scrape LinkedIn data and visualize career pathways | Python |
-| [**idea-connector**](https://github.com/ryx2/idea-connector) | Connect ideas | Python |
-| [**cookbook**](https://github.com/ryx2/cookbook) | Recipes & notes | - |
-| [**denweb**](https://github.com/ryx2/denweb) | Denread informational website | HTML |
-| [**docs**](https://github.com/ryx2/docs) | Documentation | MDX |
-| [**mac_notes**](https://github.com/ryx2/mac_notes) | My zsh/mac config | Shell |
-| [**for-income-movement**](https://github.com/ryx2/for-income-movement) | CSV merger for congressional pressure campaign | Python |
-
 ## 🌟 Developer Stats
 
 <div align="center">
