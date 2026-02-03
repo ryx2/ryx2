@@ -11,11 +11,9 @@ whats poppin
 
 ## 🚀 About Me
 
-sup
+Founder @ **Raysurfer** — semantic code caching for LLM agents
 
-## ⚡ Founder @ Raysurfer
-
-Previously, CTO @ Modern Realty (yc s24) <a href="raymondxproperties.com" target="_blank">raymondxproperties.com</a>
+Previously CTO @ Modern Realty (YC S24)
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
