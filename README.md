@@ -11,7 +11,8 @@ whats poppin
 
 ## 🚀 About Me
 
-Founder @ **Raysurfer** — semantic code caching for LLM agents
+Founder @ **Raysurfer** — Private stack overflow for LLM agents
+Having trouble doing > 5 tool calls in a row? Glad to help
 
 Previously CTO @ Modern Realty (YC S24)
 
