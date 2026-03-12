@@ -11,8 +11,7 @@ whats poppin
 
 ## 🚀 About Me
 
-Founder @ **Raysurfer** — Private stack overflow for LLM agents
-Having trouble doing > 5 tool calls in a row? Glad to help
+Founder @ **Raysurfer** — Want to deploy self improving agents? 
 
 Previously CTO @ Modern Realty (YC S24)
 
