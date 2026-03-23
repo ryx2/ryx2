@@ -13,6 +13,8 @@ whats poppin
 
 Founder @ **Raysurfer** — Want to deploy self improving agents? 
 
+Building [sharesame.com](https://sharesame.com)
+
 Previously CTO @ Modern Realty (YC S24)
 
 📊 **this week i spent my time on:**
