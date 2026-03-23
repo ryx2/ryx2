@@ -15,6 +15,8 @@ Founder @ **Raysurfer** — Want to deploy self improving agents?
 
 Building [sharesame.com](https://sharesame.com)
 
+Please help my ankle: [bumankle.com](https://bumankle.com)
+
 Previously CTO @ Modern Realty (YC S24)
 
 📊 **this week i spent my time on:**
