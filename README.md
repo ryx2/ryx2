@@ -11,9 +11,13 @@ whats poppin
 
 ## 🚀 About Me
 
-Founder @ **Raysurfer** — Want to deploy self improving agents? 
+Founder @ **Raysurfer** — Want to deploy self learning AI employees? 
 
-Building [sharesame.com](https://sharesame.com)
+Building:
+
+[raysurfer.com](https://raysurfer.com) - Self learning AI employees
+[commonfolders.com](https://commonfolders.com) - Shared AI chat that learns from everybody talking to it
+[sharesame.com](https://sharesame.com) - Really really fast vibe coded websites
 
 Please help my ankle: [bumankle.com](https://bumankle.com)
 
