@@ -52,8 +52,8 @@ tweaking that TypeScript bug2      4 mins          ░░░░░░░░░�
 
 <p align="center">
   
-[![GitHub Stats](https://github-readme-stats-six-xi-90.vercel.app/api?username=ryx2&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0D1117)](https://github.com/ryx2)
-[![Top Languages](https://github-readme-stats-six-xi-90.vercel.app/api/top-langs/?username=ryx2&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/ryx2)
+[![GitHub Stats](https://github-readme-stats-six-xi-90.vercel.app/api?username=ryx2&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0D1117&v=2)](https://github.com/ryx2)
+[![Top Languages](https://github-readme-stats-six-xi-90.vercel.app/api/top-langs/?username=ryx2&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&v=2)](https://github.com/ryx2)
 
 </p>
 
