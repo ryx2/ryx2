@@ -21,6 +21,8 @@ Building:
 
 [sharesame.com](https://sharesame.com) - Really really fast vibe coded websites
 
+[convocreator.com](https://convocreator.com) - A vibe coded ai model you can talk to called "bruh"
+
 Please help my ankle: [bumankle.com](https://bumankle.com)
 
 Previously CTO @ Modern Realty (now magelegal.com) (YC S24)
