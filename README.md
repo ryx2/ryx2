@@ -73,6 +73,4 @@ tweaking that TypeScript bug2      4 mins          ░░░░░░░░░�
 
 _"Simplicity is an advantage but sadly complexity sells better"_ — [Eugene Yan](https://eugeneyan.com/writing/simplicity/)
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
 </div>
