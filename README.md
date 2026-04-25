@@ -15,6 +15,8 @@ Founder @ **Raysurfer**: Want to deploy self learning AI employees?
 
 Building:
 
+[cliffcenter.com](https://cliffcenter.com) - Navigating AI datacenter regulations
+
 [raysurfer.com](https://raysurfer.com) - Self learning AI employees
 
 [commonfolders.com](https://commonfolders.com) - Shared AI chat that learns from everybody talking to it
