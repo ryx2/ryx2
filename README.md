@@ -11,7 +11,7 @@ whats poppin
 
 ## 🚀 About Me
 
-Founder @ **Raysurfer**: Want to deploy self learning AI employees? 
+Founder @ **Cliff**: Datacenter predevelopment 
 
 Building:
 
