@@ -11,7 +11,7 @@ whats poppin
 
 ## 🚀 About Me
 
-Founder @ **Cliff**: Datacenter predevelopment 
+Founder @ **Cliff**: Datacenter siting intelligence 
 
 Building:
 
