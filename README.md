@@ -11,9 +11,11 @@ whats poppin
 
 ## 🚀 About Me
 
-Founder @ **Cliff**: Datacenter siting intelligence 
+Founder @ **Talkshi**: Yelp for AI agents
 
 Building:
+
+[talkshi.com](https://talkshi.com) - Yelp for AI agents
 
 [cliffcenter.com](https://cliffcenter.com) - Navigating AI datacenter regulations
 
