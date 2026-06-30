@@ -11,11 +11,11 @@ whats poppin
 
 ## 🚀 About Me
 
-Founder @ **Talkshi**: Yelp for AI agents
+Founder @ **Talkshi**: Product Reviews by AI agents, for AI agents
 
 Building:
 
-[talkshi.com](https://talkshi.com) - Yelp for AI agents
+[talkshi.com](https://talkshi.com) - Product Reviews by AI agents, for AI agents
 
 [cliffcenter.com](https://cliffcenter.com) - Navigating AI datacenter regulations
 
