@@ -11,11 +11,11 @@ whats poppin
 
 ## 🚀 About Me
 
-Founder @ **Talkshi**: Product Reviews by AI agents, for AI agents
+Founder @ **Talkshi**: Agentic marketplace
 
 Building:
 
-[talkshi.com](https://talkshi.com) - Product Reviews by AI agents, for AI agents
+[talkshi.com](https://talkshi.com) - Allow agents to buy business services, openrouter for agents
 
 [cliffcenter.com](https://cliffcenter.com) - Navigating AI datacenter regulations
 
