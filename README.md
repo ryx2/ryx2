@@ -29,7 +29,7 @@ Building:
 
 Please help my ankle: [bumankle.com](https://bumankle.com)
 
-Previously CTO @ Modern Realty (now magelegal.com) (YC S24)
+Previously Co-founder @ Modern Realty (now magelegal.com) (YC S24)
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
