@@ -44,12 +44,22 @@ tweaking that TypeScript bug2      4 mins          ░░░░░░░░░�
 
 ## 🌟 Developer Stats
 
-AI employees monetized       $6k peak MRR. they grow up so fast
-Homebuyers served           19 at Modern Realty. actual keys, no API keys
-Messages handled            ~30,000. professionally overthinking a text
-Few-shot learning           <10 examples. “few” was contractual
-Model naming convention     bruh
-Known hardware issue        ankle
+```text
+AI employees monetized     $6k peak MRR. they grow up so fast
+Homebuyers served          19 at Modern Realty. actual keys, no API keys. 500k cumulative revenue
+Messages handled           ~30,000 on twilio. professionally overthinking a text
+Few-shot learning          <10 examples at google document AI.
+Model naming convention    I have a model named bruh
+Known hardware issue       ankle screws
+```
+
+## 📊 Career Execution Trace
+
+```text
+teaching computers to read invoices
+teaching computers to text homebuyers
+teaching computers to hire other computers
+```
 
 ## 📊 GitHub Stats
 
