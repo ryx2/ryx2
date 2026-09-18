@@ -44,11 +44,12 @@ tweaking that TypeScript bug2      4 mins          ░░░░░░░░░�
 
 ## 🌟 Developer Stats
 
-<div align="center">
-
-<img src="assets/ray.webp" alt="Developer Stats" />
-
-</div>
+AI employees monetized       $6k peak MRR. they grow up so fast
+Homebuyers served           19 at Modern Realty. actual keys, no API keys
+Messages handled            ~30,000. professionally overthinking a text
+Few-shot learning           <10 examples. “few” was contractual
+Model naming convention     bruh
+Known hardware issue        ankle
 
 ## 📊 GitHub Stats
 
@@ -60,6 +61,10 @@ tweaking that TypeScript bug2      4 mins          ░░░░░░░░░�
   
 
 </p>
+
+teaching computers to read invoices
+teaching computers to text homebuyers
+teaching computers to hire other computers
 
 <p align="center">
   
