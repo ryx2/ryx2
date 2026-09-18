@@ -5,7 +5,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/ryx2?style=social)](https://github.com/ryx2)
 ![Profile Views](https://komarev.com/ghpvc/?username=ryx2&color=blueviolet)
 
-whats poppin
+AI Agent creator & founder. Co-founded Modern Realty (YC S24) | San Francisco
 
 </div>
 
